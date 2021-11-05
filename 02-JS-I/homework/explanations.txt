@@ -1,0 +1,12 @@
+* Variables
+    "Contenedores" que almacenan información de diferente tipo (str, num, bool, etc)
+* Strings
+    Cadenas de uno o más caracteres
+* Funciones (argumentos, `return`)
+    Bloques de código reutilizable que ejecutan las instrucciones que contienen
+    argumentos: variables que la función recibe "desde afuera" y suelen ser necesarias para la ejecución
+    return: palabra reservada de JS que indica que la función devolverá lo que se encuentre a continuación
+* Declaraciones `if`    
+    Herramienta de control de flujo que, basada en la evaluación de la(s) condición(es) que se encuentra(n) entre paréntesis, decide si ejecutar el bloque de código que contiene o no
+* Valores booleanos (`true`, `false`)
+    Valores de verdad opuestos que sirven como la base de la lógica de cualquier programa. Pueden utilizarse, por ejemplo, para determinar si una herramienta de control de flujo debe ejecutar el bloque de código que contiene
