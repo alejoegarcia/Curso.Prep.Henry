@@ -1,0 +1,6 @@
+* `for`
+    Bucle que requiere de una variable, una condición y un incremento de la variable para ejecutar el bloque de código que contiene hasta que la condición sea falsa (ejecutando siempre las mismas instrucciones)
+* `&&`, `||`, `!`
+    '&&': operador lógico que pide que las dos condiciones que lo rodean sean verdaderas para que el resultado final sea verdadero. Si una de las dos condiciones, o ambas, es falsa, devuelve falso
+    '||': operador lógico que pide que al menos una de las dos condiciones que lo rodean sean verdaderas para que el resultado final sea verdadero. Si las dos condiciones son falsas, devuelve falso
+    '!': operador lógico que "niega" el valor de verdad que se encuentra a continuación (puede ser otra operación lógica, o varias), es decir, invierte el resultado que recibió. Si la condición cond es verdadero, !cond será falso. Si la condición cond es falso, !cond será verdadero
