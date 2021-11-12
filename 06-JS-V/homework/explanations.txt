@@ -1,0 +1,4 @@
+* `prototype`
+    Es una propiedad que poseen todos los objetos de JS y permite reducir el consumo de memoria de los programas al crear los métodos una única vez y hacerlos disponibles para todas las instancias.
+* _Constructors_ (de Clases)
+    Métodos que crean una instancia de una clase a partir de los argumentos ingresados.
