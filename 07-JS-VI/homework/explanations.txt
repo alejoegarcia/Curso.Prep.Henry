@@ -1,0 +1,2 @@
+* Funciones Callback
+    Funciones que se pasan como argumento de otras funciones y devuelven un valor.
