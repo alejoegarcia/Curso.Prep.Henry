@@ -1,0 +1,15 @@
+* Objetos
+    Contenedores de datos que almacenan información asociando una llave con el dato a guardar.
+    * Propiedades
+        Se definen con {}.
+        Están formados por pares de llaves y valores.
+        let objeto = {llave1: valor1, llave2: valor2};
+    * Métodos
+        Funciones específicas del objeto, definidas por el usuario.
+        Se llaman haciendo referencia al objeto, junto a un punto, el nombre del método, y paréntesis, que pueden contener cualquier argumento necesario.
+* Bucle `for…in`
+    Variación del clásico bucle "for" que permite recorrer todas las llaves que forman parte de un objeto.
+    for (llave in objeto ).
+* Notación de puntos vs notación de corchetes
+    La notación de puntos permite acceder a los valores de las llaves de un objeto simplemente haciendo objeto.llave.
+    La notación de corchetes permite acceder a los valores de las llaves de un objeto simplmente haciendo objeto["llave"]. Es decir, la llave debe ser de tipo cadena.
