@@ -1,0 +1,5 @@
+* Arrays
+    Objeto que sirve como colección de datos, es decir, contiene a otras variables y objetos a los que se accede mediante un índice numérico i [0;longitud-1].
+    Ejemplo:
+        miArray = ["a", "b", "c"];
+        console.log(miArray[0]); // "a"
