@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png");
+}
+h1 {
+    color:cornflowerblue;
+}
+img {
+    width: 400px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div {
+    text-align: center;
+}
+/* div {
+    align-self: center;
+} */
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: darkslategray;
+    padding: 50px;
+    border: 5px dotted crimson;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
