@@ -1,0 +1,43 @@
+body {
+    font-family: 'Gill Sans', Calibri, 'Times New Roman';
+    color: #222;
+    font-size: 1.25em;
+    background-color: #E7DFE8;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h1,
+h2 {
+    font-family: Verdana, Arial;
+    color: #4392F1;
+}
+
+hr {
+    background-color: #F2E863;
+    border: 3px #F2E863 solid;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+
+.info {
+    text-align: justify;
+    padding-left: 20px;
+}
+
+.my-photo {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
